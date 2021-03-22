@@ -1,5 +1,5 @@
 # The best destination for tourism in the Balcans!  
-**The proud of sea**  
+**The pride of sea**  
 ``` diff
 - Greece
 ```
