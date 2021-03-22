@@ -1,5 +1,5 @@
 WELCOME TO FINAL BATTLE FOR GIThub
-y = 6;
+stoichkov == 8;
 Updating with Bash...
 Update with Tortoise...
   
